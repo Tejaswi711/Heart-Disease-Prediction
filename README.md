@@ -1,4 +1,4 @@
-# Diabetes Prediction Using Artificial Neural Network (ANN)
+# Heart Disease Prediction Using Artificial Neural Network (ANN)
 
 ## Project Overview
 
